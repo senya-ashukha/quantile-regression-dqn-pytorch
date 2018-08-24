@@ -15,7 +15,7 @@ Please cite this repository if it was useful for your research
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ars-ashuha/pytorch-quantile-regression-dqn}},
+  howpublished = {\url{https://github.com/ars-ashuha/quantile-regression-dqn-pytorch}},
 }
 ``` 
 Of course, do not forget to cite Distributional Reinforcement Learning with Quantile Regression (https://arxiv.org/abs/1710.10044).
