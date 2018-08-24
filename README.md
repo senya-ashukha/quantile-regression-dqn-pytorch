@@ -10,7 +10,7 @@ Please cite this repository if it was useful for your research
 
 ```
 @misc{Ashukha2018,
-  author = {Arsenii, Ashukha},
+  author = {Arsenii Ashukha, Mikhail Konobeev},
   title = {Quantile Regression DQN a Minimal Working Example},
   year = {2018},
   publisher = {GitHub},
