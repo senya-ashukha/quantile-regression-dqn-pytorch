@@ -5,9 +5,7 @@ Quantile Regression DQN a Minimal Working Example, Distributional Reinforcement 
 <img height="318" src="img/screens.gif"/>
 </p>
 
-## Requirements
-Python 3.6
-
+## Requirements (Python 3.6)
 ```bash
 pip3 install gym, torch, numpy, tabulate, pandas
 ```
