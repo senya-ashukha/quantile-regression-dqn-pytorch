@@ -10,17 +10,6 @@ Quantile Regression DQN a Minimal Working Example, Distributional Reinforcement 
 pip3 install gym, torch, numpy, tabulate, pandas
 ```
 
-## Citation
-Please cite this repository if it was useful for your research
+## Credits
 
-```
-@misc{Ashukha2018,
-  author = {Arsenii Ashukha, Mikhail Konobeev},
-  title = {Quantile Regression DQN a Minimal Working Example},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ars-ashuha/quantile-regression-dqn-pytorch}},
-}
-``` 
-Of course, do not forget to cite Distributional Reinforcement Learning with Quantile Regression (https://arxiv.org/abs/1710.10044).
+Joint work with Mikhail Konobeev. Of course, do not forget to cite Distributional Reinforcement Learning with Quantile Regression (https://arxiv.org/abs/1710.10044).
